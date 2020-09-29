@@ -72,7 +72,7 @@ commands:
     toggled: "{GREEN}Bandera {FLAG} ha sido habilitada."
     toggled-off: "{GREEN}Bandera {FLAG} ha sido deshabilitada."
   fly:
-    not-allowed: "{ROJO}No tienes permitido volar aquí."
+    not-allowed: "{RED}No tienes permitido volar aquí."
     toggled: "{GREEN}Se ha habilitado el vuelo."
     toggled-off: "{RED}El vuelo ha sido deshabilitado."
   help:
